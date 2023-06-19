@@ -1,5 +1,5 @@
-# Esp3D
-A compiled version of Esp3D for the ESP8266 NodeMCU V0.0.1 to avoid all compiling problems during the process, but could be ported to any ESP8266 module.
+# Esp3D 2.1.X
+A compiled version of Esp3D 2.1.x for the ESP8266 NodeMCU V0.0.1 to avoid all compiling problems during the process, but could be ported to any ESP8266 module.
 
 I´m using ESP8266 2.7.4 Core, because the 3.1.2 still having problems with libraries
 
